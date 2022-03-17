@@ -1,0 +1,4 @@
+repository "PathOfWarrior@muhammet484@cloud"
+  path "/"
+    br "/main"
+    co "/main"
